@@ -5,14 +5,14 @@ font-family: Verdana, Georgia, serif;
 font-size: 14px;
 }
 
-header  {
+#header  {
 background-color: #5c755e;
 margin: 10px;
 height: 90px;
 border-radius: 5px;
 }
 
-nav {
+#navbar {
 background-color: #5c755e;
 margin: 10px;
 height: 35px;
